@@ -1,0 +1,11 @@
+gradio
+langchain
+sentence-transformers
+faiss-cpu
+pdfplumber
+python-pptx
+transformers
+torch
+pydantic
+numpy
+python-dotenv
